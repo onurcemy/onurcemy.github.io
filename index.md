@@ -37,10 +37,10 @@ Bachelor of Science in [Environmental Engineering at METU](https://enve.metu.edu
 
 ### Involved Projects
 
-**[Innovative and Sustainable Groundwater Management in the Mediterranean](https://inthemedprima.com/) (InTheMED)**
+#[Innovative and Sustainable Groundwater Management in the Mediterranean](https://inthemedprima.com/) (InTheMED)
 My main task in the project was to estimate groundwater recharge in the Konya Closed Basin, a semi-arid region with extensive agricultural lands. I engaged in multiple interactive sessions with farmers and policymakers to explain the causes and results of groundwater depletion. Within the InTheMED project, I participated in machine learning model development and system dynamic model development, to compare different modeling approaches with the process-based model.
 
-**[Smart Campus Project](https://tf.metu.edu.tr/en/ids-spring19/)**
+#[Smart Campus Project](https://tf.metu.edu.tr/en/ids-spring19/)
 Collaborating with my team, our primary focus centered on crafting sustainable and intelligent transportation solutions within the METU campus environment. Our main achievement was the creation of METUNAVI, a platform rewarding pedestrians and hitchhikers with incentives. This initiative aimed to promote eco-friendly mobilization within campus.
 
 ### Scholarships & Honors
