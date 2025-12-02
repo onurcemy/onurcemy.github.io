@@ -17,19 +17,35 @@ Bachelor of Science in [Environmental Engineering at METU](https://enve.metu.edu
 - CGPA: 3.06/4.00
 - Specialized in Water Management
 
+###Technical Skills
+-Programming Languages: Python, R, MATLAB, Google Earth Engine, LaTeX
+-Softwares: QGIS, ArcGIS, Modflow, ModelMuse, MS Excel, MS Word
+
 ### Publications
 - Secci, D., Saysel, A. K., Uygur, İ., **Yologlu, O. C.**, Zanini, A., \& Copty, N. K. (2024). [Modeling for sustainable groundwater management: Interdependence and potential complementarity of process-based, data-driven and system dynamics approaches](https://doi.org/10.1016/J.SCITOTENV.2024.175491). Science of The Total Environment, 951, 175491.
 
 ### Conferences
+- Secci, D., Saysel, A. K., Uygur, I.,  **Yologlu, O. C.**, Zanini, A., Copty, K.N.(2024, June).  [Process-based, Surrogate and System Dynamics Modeling for Enhanced Management of Groundwater Resources](https://doi.org/10.5281/zenodo.12796801). 15th International Conference on Geostatistics for Environmental Applications, Chania, Greece, 19-21 June 2024. 
 - **Yologlu, O. C.**, Uygur, I., Copty, K.N., Daloglu Çetinkaya, I., Saysel, A. K. (2023, April). [Evaluation of Different Water Management Practices for the Sustainable Use of Groundwater Resources in the Konya Closed Basin](https://doi.org/10.5194/egusphere-egu23-8796). EGU General Assembly 2023, Vienna, Austria, 24–28 Apr 2023, EGU23-8796.
 - Uygur, I., **Yologlu, O. C.**, Copty, K.N., Daloglu Çetinkaya, I., Saysel, A. K. (2023, April). [Partial validation of a socio-economic system dynamics model against a process based hydro-geological model](https://doi.org/10.5194/egusphere-egu23-3417). EGU General Assembly 2023, Vienna, Austria, 24–28 Apr 2023, EGU23-3417.
 - Khandandel, M., **Yologlu, O. C.**, Secci, D., Todaro, V., Daloglu Çetinkaya, I., Copty, K.N., Saysel, A. K. (2023, April). [Drought Risk Assessment for an Agricultural Basin in Turkey using SPEI and SPI](https://doi.org/10.5194/egusphere-egu23-8726). EGU General Assembly 2023, Vienna, Austria, 24–28 Apr 2023, EGU23-8726, 
 - Secci, D., Todaro, V., **Yologlu, O. C.**, Copty, K.N., Daloglu Çetinkaya, I., D'Oria, M., Saysel, A. K., Tanda, M.G., Zanini, A. (2023, April). [An artificial neural network as a quick tool to assess the effects of climate change and agricultural policies on groundwater resources](https://doi.org/10.5194/egusphere-egu23-5801).  EGU General Assembly 2023, Vienna, Austria, 24–28 Apr 2023, EGU23-5801.
 - Daloglu Çetinkaya, I., Uygur, I., Saysel, A. K., **Yologlu, O. C.**, Copty, N. (2022, October). [Groundwater use in a semi-arid area: Governance of an overexploited resource](https://doi.org/10.5281/zenodo.8247521). Sustain Valencia, Valencia, Spain, 6-8 October 2022. 
 - **Yologlu, O. C.**, Copty, N., Tunca, M.C., Daloglu, I., Saysel, A. K. (2022, September). [Regional-Scale Modeling of Surface-Subsurface Flow: The Konya Closed Basin Case Study](https://doi.org/10.5281/zenodo.8383837). 7th IAHR EUROPE CONGRESS, Athens, Greece, 7-9 September 2022.
-- **Yologlu, O. C.**, , Copty, N., Uygur, I., Tunca, M.C., Bal, E., Yetisti, B., Daloglu, I., Saysel, A. K. (2022, June). [Coupled Surface-Subsurface Hydrological Model for the Estimation of Net Recharge of the Konya Closed Basin, Turkey](https://doi.org/10.5281/zenodo.8383812). 14th International Conference on Geostatistics for Environmental Applications, Parma, Italy, 22-24 June 2022. 
-- **Yologlu, O. C.**,, Alp E. (2020, December). [Investigation of Low Impact Development Potential for a Densely Populated Area in a Semi-arid Climate](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/724492) . AGU Fall Meeting 2020, Online, 1-17 December 2020.
+- **Yologlu, O. C.**, Copty, N., Uygur, I., Tunca, M.C., Bal, E., Yetisti, B., Daloglu, I., Saysel, A. K. (2022, June). [Coupled Surface-Subsurface Hydrological Model for the Estimation of Net Recharge of the Konya Closed Basin, Turkey](https://doi.org/10.5281/zenodo.8383812). 14th International Conference on Geostatistics for Environmental Applications, Parma, Italy, 22-24 June 2022. 
+- **Yologlu, O. C.**, Alp E. (2020, December). [Investigation of Low Impact Development Potential for a Densely Populated Area in a Semi-arid Climate](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/724492) . AGU Fall Meeting 2020, Online, 1-17 December 2020.
 
+### Involved Projects
+
+[Innovative and Sustainable Groundwater Management in the Mediterranean](https://inthemedprima.com/) 
+My main task in the project was to estimate groundwater recharge in the Konya Closed Basin, a semi-arid region with extensive agricultural lands. I engaged in multiple interactive sessions with farmers and policymakers to explain the causes and results of groundwater depletion. Within the InTheMED project, I participated in machine learning model development and system dynamic model development, to compare different modeling approaches with the process-based model.
+
+[Smart Campus Project](https://tf.metu.edu.tr/en/ids-spring19/)
+Collaborating with my team, our primary focus centered on crafting sustainable and intelligent transportation solutions within the METU campus environment. Our main achievement was the creation of METUNAVI, a platform rewarding pedestrians and hitchhikers with incentives. This initiative aimed to promote eco-friendly mobilization within campus.
+
+### Scholarships & Honors
+-DAAD Scholarship for 5th International Summer School on Managed Aquifer Recharge at HTW Dresden. Dresden, Germany. (July 2023)
+-Placed Honor Roll (x2) and High Honor Roll (x2) of Middle East Technical University.
 
 ### Links
 - [Linkedin](https://www.linkedin.com/in/onurcemyologlu/)
