@@ -17,7 +17,7 @@ Bachelor of Science in [Environmental Engineering at METU](https://enve.metu.edu
 - CGPA: 3.06/4.00
 - Specialized in Water Management
 
-###Technical Skills
+### Technical Skills
 - Programming Languages: Python, R, MATLAB, Google Earth Engine, LaTeX
 - Softwares: QGIS, ArcGIS, Modflow, ModelMuse, MS Excel, MS Word
 
