@@ -35,6 +35,12 @@ Bachelor of Science in [Environmental Engineering at METU](https://enve.metu.edu
 - **Yologlu, O. C.**, Copty, N., Uygur, I., Tunca, M.C., Bal, E., Yetisti, B., Daloglu, I., Saysel, A. K. (2022, June). [Coupled Surface-Subsurface Hydrological Model for the Estimation of Net Recharge of the Konya Closed Basin, Turkey](https://doi.org/10.5281/zenodo.8383812). 14th International Conference on Geostatistics for Environmental Applications, Parma, Italy, 22-24 June 2022. 
 - **Yologlu, O. C.**, Alp E. (2020, December). [Investigation of Low Impact Development Potential for a Densely Populated Area in a Semi-arid Climate](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/724492) . AGU Fall Meeting 2020, Online, 1-17 December 2020.
 
+### Acknowledgements
+- Daloğlu Çetinkaya, I., Uygur, İ., & Saysel, A. K. (2025). [Navigating an impending crisis: Groundwater Governance in Konya Closed Basin, Türkiye](https://doi.org/10.1016/j.gsd.2025.101540). Groundwater for Sustainable Development, 31, 101540.
+- Khandandel, M., Copty, N.K. & Daloğlu Çetinkaya, I. [A shift towards temperature-dominated droughts in agricultural basins of Türkiye](https://doi.org/10.1007/s11069-025-07633-1). Nat Hazards 121, 20601–20628 (2025). 
+- Erkol, Z.I., Yesilyurt, S.N. & Dalkilic, H.Y.(2024) [Impacts of climate change on spatial drought distribution in the Mediterranean Basin (Turkey): different climate models and downscaling methods](https://doi.org/10.1007/s00704-024-04867-0). Theor Appl Climatol 155, 4065–4087.
+- Erkol, Z. İ., & Daloglu Çetinkaya, İ. (2023). [Investigating the Role of Bias Correction Methods and Climate Models on Water Budget of Büyük Menderes Basin](https://doi.org/10.16984/saufenbilder.1125240). Sakarya University Journal of Science, 27(5), 975-986. 
+
 ### Involved Projects
 
 [Innovative and Sustainable Groundwater Management in the Mediterranean](https://inthemedprima.com/) (InTheMED)
