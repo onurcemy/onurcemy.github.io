@@ -18,8 +18,8 @@ Bachelor of Science in [Environmental Engineering at METU](https://enve.metu.edu
 - Specialized in Water Management
 
 ###Technical Skills
--Programming Languages: Python, R, MATLAB, Google Earth Engine, LaTeX
--Softwares: QGIS, ArcGIS, Modflow, ModelMuse, MS Excel, MS Word
+- Programming Languages: Python, R, MATLAB, Google Earth Engine, LaTeX
+- Softwares: QGIS, ArcGIS, Modflow, ModelMuse, MS Excel, MS Word
 
 ### Publications
 - Secci, D., Saysel, A. K., Uygur, İ., **Yologlu, O. C.**, Zanini, A., \& Copty, N. K. (2024). [Modeling for sustainable groundwater management: Interdependence and potential complementarity of process-based, data-driven and system dynamics approaches](https://doi.org/10.1016/J.SCITOTENV.2024.175491). Science of The Total Environment, 951, 175491.
@@ -44,8 +44,8 @@ My main task in the project was to estimate groundwater recharge in the Konya Cl
 Collaborating with my team, our primary focus centered on crafting sustainable and intelligent transportation solutions within the METU campus environment. Our main achievement was the creation of METUNAVI, a platform rewarding pedestrians and hitchhikers with incentives. This initiative aimed to promote eco-friendly mobilization within campus.
 
 ### Scholarships & Honors
--DAAD Scholarship for 5th International Summer School on Managed Aquifer Recharge at HTW Dresden. Dresden, Germany. (July 2023)
--Placed Honor Roll (x2) and High Honor Roll (x2) of Middle East Technical University.
+- DAAD Scholarship for 5th International Summer School on Managed Aquifer Recharge at HTW Dresden. Dresden, Germany. (July 2023)
+- Placed Honor Roll (x2) and High Honor Roll (x2) of Middle East Technical University.
 
 ### Links
 - [Linkedin](https://www.linkedin.com/in/onurcemyologlu/)
